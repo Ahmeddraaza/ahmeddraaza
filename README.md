@@ -60,7 +60,8 @@ I'm currently expanding my knowledge in the following areas:
 
 ## 📈 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddraaza&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
 
 ---
 
