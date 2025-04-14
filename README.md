@@ -62,6 +62,15 @@ I'm currently expanding my knowledge in the following areas:
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddraaza&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
+## 🛠️ Languages and Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddraaza&layout=compact&langs_count=10&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmeddraaza&theme=radical)
+
+
 
 ---
 
