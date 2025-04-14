@@ -76,9 +76,9 @@ I'm currently expanding my knowledge in the following areas:
 
 ## 🤝 Let's Connect
 
-- 📧 **Email:** [your.email@example.com](mailto:ahmeddraza279@gmail.com)
+- 📧 **Email:** [ahmeddraza279@gmail.com](mailto:ahmeddraza279@gmail.com)
 - 🌐 **LinkedIn:** [Ahmed Raza LinkedIn](https://www.linkedin.com/in/ahmedd-raaza/)
-- 🌍 **Website:** [(https://your-portfolio.com)](https://portfolio-ahmeddraazas-projects.vercel.app/)
+- 🌍 **Website:** [(Ahmed's Portfolio)](https://portfolio-ahmeddraazas-projects.vercel.app/)
 
 ---
 
