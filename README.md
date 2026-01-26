@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Raza 👋
 
-I'm a passionate **Software Engineer** specializing in **Web and Mobile Application Development**. With over 3+ years of experience in building user-centric applications, I focus on creating scalable, maintainable, and high-performance solutions. I love solving complex problems with elegant code, and I'm always learning new technologies and frameworks to improve my skillset.
+I'm a passionate **Software Engineer** specializing in **Web and Mobile Application Development**. With over 4+ years of experience in building user-centric applications, I focus on creating scalable, maintainable, and high-performance solutions. I love solving complex problems with elegant code, and I'm always learning new technologies and frameworks to improve my skillset.
 
 ## 🚀 Technologies & Tools
 
