@@ -13,7 +13,7 @@ Here are some of the technologies and tools I work with:
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 
 - **Mobile Development:**  
-  ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-03DAC5?logo=android&logoColor=white)
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-03DAC5?logo=android&logoColor=white) ![IOS] ![Flutter]
 
 - **Databases:**  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
